@@ -20,7 +20,7 @@
 ## 🔎 About
 I am a Computer Science Engineering professional with practical experience in **AI, <br>
 Machine Learning, Deep Learning, Web Automation, and Cybersecurity (CEH)**. I build <br>
-reliable automation and ML systems, design efficient algorithms in **C / C++** and <br>
+reliable automation and ML systems, design efficient algorithms in **C / Python** and <br>
 develop production-ready services and tooling in **Python**.
 
 ---
