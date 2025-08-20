@@ -32,7 +32,6 @@ develop production-ready services and tooling in **Python**.
   <img src="https://img.shields.io/badge/PHP-85%25-purple?style=for-the-badge" alt="php" />
   <img src="https://img.shields.io/badge/HTML/CSS-80%25-orange?style=for-the-badge" alt="web" />
   <img src="https://img.shields.io/badge/MySQL-85%25-lightblue?style=for-the-badge" alt="mysql" />
-  <img src="https://img.shields.io/badge/Git-80%25-red?style=for-the-badge" alt="git" />
   <img src="https://img.shields.io/badge/CEH-80%25-orange?style=for-the-badge" alt="ceh" />
 </p>
 
