@@ -36,7 +36,6 @@ develop production-ready services and tooling in **Python**.
 </p>
 
 ---
----
 
 
 ## 📬 Contact & Hiring
