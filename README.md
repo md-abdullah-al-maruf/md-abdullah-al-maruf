@@ -36,27 +36,6 @@ develop production-ready services and tooling in **Python**.
 </p>
 
 ---
-
-## 📊 Live GitHub Overview
-
-<table>
-  <tr>
-    <td align="center">
-      <img
-        src="https://img.shields.io/github/stars/md-abdullah-al-maruf?style=for-the-badge&color=blue"
-        alt="GitHub Stars"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://img.shields.io/github/followers/md-abdullah-al-maruf?style=for-the-badge&color=green"
-        alt="GitHub Followers"
-      />
-    </td>
-  </tr>
-</table>
-
-
 ---
 
 
