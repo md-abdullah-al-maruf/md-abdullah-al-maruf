@@ -42,13 +42,20 @@ develop production-ready services and tooling in **Python**.
 <table>
   <tr>
     <td align="center">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=md-abdullah-al-maruf&show_icons=true&theme=tokyonight" />
+      <img
+        src="https://img.shields.io/github/stars/md-abdullah-al-maruf?style=for-the-badge&color=blue"
+        alt="GitHub Stars"
+      />
     </td>
     <td align="center">
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-abdullah-al-maruf&layout=compact&theme=tokyonight" />
+      <img
+        src="https://img.shields.io/github/followers/md-abdullah-al-maruf?style=for-the-badge&color=green"
+        alt="GitHub Followers"
+      />
     </td>
   </tr>
 </table>
+
 
 ---
 
