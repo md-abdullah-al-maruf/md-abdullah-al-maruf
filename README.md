@@ -1,7 +1,13 @@
 <div align="center">
 
 <!-- Animated intro (shows your headline once) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00ffcc&center=true&vCenter=true&lines=Hi+there!+👋" alt="typing" />
+<!-- Animated intro -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/md-abdullah-al-maruf/md-abdullah-al-maruf/main/wave.svg"
+    alt="Hi there waving"
+  />
+</p>
 
 # I'm Md Abdullah Al Maruf
 **Computer Science Engineer • AI / ML / Deep Learning • Web Automation • Cybersecurity (CEH)**
