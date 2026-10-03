@@ -1,0 +1,58 @@
+<svg width="500" height="70" viewBox="0 0 500 70"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <clipPath id="reveal">
+      <rect x="0" y="0" width="0" height="70">
+        <animate
+          attributeName="width"
+          from="0"
+          to="500"
+          dur="2.8s"
+          fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- Text -->
+  <g clip-path="url(#reveal)">
+    <text x="50%" y="48"
+          text-anchor="middle"
+          font-family="Fira Code, monospace"
+          font-size="30"
+          font-weight="600"
+          fill="#00ffcc">
+      Hi there!
+    </text>
+
+    <!-- Hand -->
+    <text x="365" y="48"
+          font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif"
+          font-size="30">
+      👋
+    </text>
+  </g>
+
+  <!-- Animated hand -->
+  <text x="365" y="48"
+        font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif"
+        font-size="30"
+        opacity="0">
+    👋
+    <animate
+      attributeName="opacity"
+      begin="2.8s"
+      from="0"
+      to="1"
+      dur="0.01s"
+      fill="freeze"/>
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      values="0 380 40; 18 380 40; -18 380 40; 12 380 40; -12 380 40; 0 380 40"
+      begin="2.8s"
+      dur="0.9s"
+      repeatCount="indefinite"/>
+  </text>
+
+</svg>
