@@ -1,0 +1,90 @@
+<svg
+  width="500"
+  height="70"
+  viewBox="0 0 500 70"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <defs>
+    <clipPath id="intro">
+      <rect x="0" y="0" width="0" height="70">
+        <animate
+          attributeName="width"
+          from="0"
+          to="500"
+          dur="2.8s"
+          fill="freeze"
+        />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- ========================= -->
+  <!-- HI THERE - APPEARS ONCE -->
+  <!-- ========================= -->
+
+  <g clip-path="url(#intro)">
+    <text
+      x="50%"
+      y="48"
+      text-anchor="middle"
+      font-family="Fira Code, monospace"
+      font-size="30"
+      font-weight="600"
+      fill="#00ffcc"
+    >
+      Hi there!
+    </text>
+  </g>
+
+  <!-- ========================= -->
+  <!-- WAVING HAND -->
+  <!-- ========================= -->
+
+  <g
+    transform="translate(365 42)"
+    opacity="0"
+  >
+
+    <animate
+      attributeName="opacity"
+      begin="2.8s"
+      from="0"
+      to="1"
+      dur="0.01s"
+      fill="freeze"
+    />
+
+    <!-- Hand pivots from the bottom -->
+    <g>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="
+          0;
+          -18;
+          14;
+          -16;
+          11;
+          -5;
+          0
+        "
+        begin="2.8s"
+        dur="0.9s"
+        repeatCount="indefinite"
+      />
+
+      <text
+        x="0"
+        y="6"
+        font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif"
+        font-size="30"
+        text-anchor="middle"
+      >👋</text>
+
+    </g>
+
+  </g>
+
+</svg>
