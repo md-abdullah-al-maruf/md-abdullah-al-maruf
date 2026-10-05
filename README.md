@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animated intro (shows your headline once) -->
 <!-- Animated intro -->
 <p align="center">
   <img
